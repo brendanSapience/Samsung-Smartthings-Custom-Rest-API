@@ -40,7 +40,7 @@ Examples of Endpoints:
   
   * /motions
   * /events/motions
-  * /events/motions?id=<Device ID>
+  * /events/motions?id=<<Device ID>>
   
   * /locks
   * /events/locks
