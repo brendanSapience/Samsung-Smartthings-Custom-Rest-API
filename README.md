@@ -34,40 +34,40 @@ Usage:
 
 Examples of Endpoints:
 
-* /contacts                         (get devices that have contacts attributes)
-* /events/contacts                  (get all contact type events)
-* /events/contacts?id=<Device ID>   (Get all Contact Events for 1 specific device)
+  * /contacts                         (get devices that have contacts attributes)
+  * /events/contacts                  (get all contact type events)
+  * /events/contacts?id=<Device ID>   (Get all Contact Events for 1 specific device)
   
   * /motions
   * /events/motions
   * /events/motions?id=<Device ID>
   
-  /locks
-  /events/locks
-  /events/locks?id=<Device ID>
+  * /locks
+  * /events/locks
+  * /events/locks?id=<Device ID>
   
-  /lux
-  /events/lux
-  /events/lux?id=<Device ID>
+  * /lux
+  * /events/lux
+  * /events/lux?id=<Device ID>
   
-  /colors
-  /events/colors
-  /events/colors?id=<Device ID>
+  * /colors
+  * /events/colors
+  * /events/colors?id=<Device ID>
   
-  /alarms
-  /events/alarms
-  /events/alarms?id=<Device ID>
+  * /alarms
+  * /events/alarms
+  * /events/alarms?id=<Device ID>
   
-  /switches
-  /events/switches
-  /events/switches?id=<Device ID>
+  * /switches
+  * /events/switches
+  * /events/switches?id=<Device ID>
   
-  /temperatures
-  /events/temperatures
-  /events/temperatures?id=<Device ID>
+  * /temperatures
+  * /events/temperatures
+  * /events/temperatures?id=<Device ID>
   
-  /shocks
-  /events/shocks
-  /events/shocks?id=<Device ID>
+  * /shocks
+  * /events/shocks
+  * /events/shocks?id=<Device ID>
   
  
