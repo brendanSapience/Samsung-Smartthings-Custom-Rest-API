@@ -38,9 +38,9 @@ Examples of Endpoints:
 * /events/contacts                  (get all contact type events)
 * /events/contacts?id=<Device ID>   (Get all Contact Events for 1 specific device)
   
-  /motions
-  /events/motions
-  /events/motions?id=<Device ID>
+  * /motions
+  * /events/motions
+  * /events/motions?id=<Device ID>
   
   /locks
   /events/locks
