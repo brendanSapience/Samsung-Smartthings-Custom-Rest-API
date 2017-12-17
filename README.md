@@ -34,11 +34,9 @@ Usage:
 
 Examples of Endpoints:
 
-/contacts                         (get devices that have contacts attributes)
-
-/events/contacts                  (get all contact type events)
-
-/events/contacts?id=<Device ID>   (Get all Contact Events for 1 specific device)
+* /contacts                         (get devices that have contacts attributes)
+* /events/contacts                  (get all contact type events)
+* /events/contacts?id=<Device ID>   (Get all Contact Events for 1 specific device)
   
   /motions
   /events/motions
